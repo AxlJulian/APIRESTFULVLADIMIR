@@ -1,0 +1,15 @@
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.deps.json
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Shared.dll
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Shared.pdb
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CopyComplete
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.dll
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\refint\Service.Contracts.dll
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.pdb
+C:\Users\axlju\OneDrive\Escritorio\VLADIMIRTRABAJOAPI\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\ref\Service.Contracts.dll
